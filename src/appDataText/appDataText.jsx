@@ -17,7 +17,7 @@ import imageTakeFree2 from "../images/imageTakeFree/lasEmocionesNegativas.jpg";
 import imageTakeFree3 from "../images/imageTakeFree/tipsHomeOffice.jpg";
 import imageTakeFree4 from "../images/imageTakeFree/fatigaPandemica.jpg";
 import imageTakeFree5 from "../images/imageTakeFree/maslow Piramide.jpg";
-import imageTakeFree6 from "../images/imageTakeFree/Distorsiones cognitivas y ansiedad.jpg";
+import imageTakeFree6 from "../images/imageTakeFree/distorsiones.jpg";
 import imageTakeFree7 from "../images/imageTakeFree/Relacion saludable 1.jpg";
 import imageTakeFree8 from "../images/imageTakeFree/Derechos sexuales.jpg";
 
