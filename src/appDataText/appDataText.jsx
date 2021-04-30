@@ -24,8 +24,8 @@ import imageTakeFree8 from "../images/imageTakeFree/Derechos sexuales.jpg";
 //Take Free docs
 import docTakeFree1 from "../docs/takeFreeDocs/ElMitoDeLaMadre.pdf";
 import docTakeFree2 from "../docs/takeFreeDocs/PoemaRUMI.pdf";
-import docTakeFree3 from "../docs/takeFreeDocs/tipsTeletrabajo.pdf";
-import docTakeFree4 from "../docs/takeFreeDocs/FatigaPandemica.pdf";
+import docTakeFree3 from "../docs/takeFreeDocs/TIPS para teletrabajo Awareness Consultant.pdf";
+import docTakeFree4 from "../docs/takeFreeDocs/Fatiga pandemica.pdf";
 import docTakeFree5 from "../docs/takeFreeDocs/Qué me falta o me sobra para estar en armonía.pdf";
 import docTakeFree6 from "../docs/takeFreeDocs/Distorsiones cognitivas.pdf";
 import docTakeFree7 from "../docs/takeFreeDocs/Poema Perlz.pdf";
